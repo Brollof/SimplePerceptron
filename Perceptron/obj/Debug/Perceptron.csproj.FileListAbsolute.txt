@@ -1,0 +1,9 @@
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Olaf\Desktop\Projekty\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
